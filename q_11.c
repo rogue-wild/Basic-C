@@ -1,3 +1,5 @@
+//to find the greatest of three numbers...
+
 #include<stdio.h>
 #include<conio.h>
 void main()
