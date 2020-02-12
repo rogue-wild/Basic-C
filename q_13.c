@@ -1,3 +1,5 @@
+//Using conditional operator to find greatest of two numbers...
+
 #include<stdio.h>
 #include<conio.h>
 void main()
