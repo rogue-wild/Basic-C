@@ -1,3 +1,5 @@
+//To read a character and find whether it's uppercase or lower case or a special character...
+
 #include<stdio.h>
 #include<conio.h>
 void main()
