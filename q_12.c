@@ -1,3 +1,5 @@
+//Grading system according to marks scored in various subjects...
+
 #include<stdio.h>
 #include<conio.h>
 void main()
