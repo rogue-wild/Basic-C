@@ -1,3 +1,5 @@
+//to find the ASCII value of a character....
+
 #include<stdio.h>
 #include<conio.h>
 void main()
