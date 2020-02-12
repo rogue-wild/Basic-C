@@ -1,3 +1,5 @@
+//To find the fibonacci series of a given input length using functions...
+
 #include<stdio.h>
 // declaring the function
 void Fibo(int j);
