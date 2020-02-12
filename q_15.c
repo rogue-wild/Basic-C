@@ -1,3 +1,5 @@
+//To read a character and find whether it's uppercase or lower case or a special character using ASCII values...
+
 #include<stdio.h>
 #include<conio.h>
 void main()
@@ -5,7 +7,7 @@ void main()
     char ch;
     int d;
     printf("Name: Vishnu Bhagwat\n");
-printf("Roll. No.: 41913202718\n\n");
+    printf("Roll. No.: 41913202718\n\n");
     printf("\nEnter a character\n");
     scanf("%c",&d);
     ch=d;
