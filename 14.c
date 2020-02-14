@@ -1,3 +1,11 @@
+/*To print the pattern: A
+                        A B
+			A B C
+			A B C D 
+			A B C D E */
+
+
+
 #include<stdio.h>
 #include<conio.h>
 
