@@ -1,11 +1,13 @@
+//To find the power of a number...
+
 #include<stdio.h>
 #include<conio.h>
 void main()
 {
  int n,e,f=1 ;
  clrscr();
- printf("Name: Tushar Malhotra\n");
- printf("Roll Number: 42513202718\n\n") ;
+ printf("Name: Vishnu Bhagwat\n");
+ printf("Roll Number: 41513202718\n\n") ;
  printf("Enter Base:\t");
  scanf("%d",&n) ;
  printf("Enter it's Exponent:\t") ;
