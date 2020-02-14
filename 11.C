@@ -1,3 +1,5 @@
+//To find whether a number is a character or digit using ASCII values...
+
 #include<stdio.h>
 #include<conio.h>
 void main()
@@ -5,8 +7,8 @@ void main()
  char ch ;
  int i ;
  clrscr();
- printf("Name: Tushar Malhotra\n");
- printf("Roll Number: 42513202718\n\n") ;
+ printf("Name: Vishnu Bhagwat\n");
+ printf("Roll Number: 41913202718\n\n") ;
  printf("Enter a Charcter or Digit:\t");
  ch = getchar();
  if(ch>='A' && ch<='Z' || ch>='a' && ch<='z')
