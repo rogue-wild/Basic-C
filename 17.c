@@ -1,3 +1,5 @@
+//To find the factorial of number...
+
 #include <stdio.h>
 long int Numbers(int n);
 
