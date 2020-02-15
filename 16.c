@@ -1,3 +1,6 @@
+//To find the area of a cirlce of a given input radius...
+
+
 #include<stdio.h>
 
  float area(float r);
