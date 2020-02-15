@@ -16,4 +16,10 @@ The repository contains some basic programs in C/C++ programming languages:
 13. 13.c //To find the power of a number.
 14. 14.c //To make a pattern.
 15. 15.c //To make a pattern.
+16. 16.c //To find the area of a cirlce of a given input radius.
+17. 17.c //To find the factorial of number.
+18. 18.c //To find the fibonacci series using recursion.
+
+
+
 
