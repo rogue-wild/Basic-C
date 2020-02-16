@@ -1,3 +1,5 @@
+//To create a structure of student data type...
+
 #include<stdio.h>
 int gtbitstrlen(char a[])
 {
@@ -19,7 +21,7 @@ int main()
     int i,rollno,marks,j;
     char name[100];
     struct students s[10];
-    printf(" Tushar Malhotra \n 42513202718 \n Enter the details: ");
+    printf(" Vishnu Bhagwat \n 41913202718 \n Enter the details: ");
     for(i=0; i<10; i++)
     {
         scanf("%s",name);
