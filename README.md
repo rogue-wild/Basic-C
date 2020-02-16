@@ -19,6 +19,10 @@ The repository contains some basic programs in C/C++ programming languages:
 16. 16.c //To find the area of a cirlce of a given input radius.
 17. 17.c //To find the factorial of number.
 18. 18.c //To find the fibonacci series using recursion.
+19. 19.c //To copy a string.
+20. 20.c //To create a structure of student data type.
+
+
 
 
 
