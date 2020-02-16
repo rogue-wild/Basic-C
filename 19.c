@@ -1,3 +1,5 @@
+//To copy a string...
+
 #include<stdio.h>
 int gtbitstrlen(char a[]){
 int n=0;
@@ -20,7 +22,7 @@ c[i+j]=a[j];}
 int main(){
 char a[100],b[100],c[100];
 int n,i,v=0;
-printf(" Tushar Malhotra\n 42513202718 \n Enter the string: ");
+printf(" Vishnu Bhagwat\n 41913202718 \n Enter the string: ");
 scanf("%s",a);
 printf("\n");
 printf("\n Length of string: %d",gtbitstrlen(a));
