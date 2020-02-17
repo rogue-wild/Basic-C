@@ -1,10 +1,12 @@
+//To check whether a input string is a palindrome or not...
+
 #include<stdio.h>
 #include<string.h>
 int main(){
     char string1[20];
     int i, length;
     int flag = 0;
-     printf(" Name: Vikas Bishnoi \n Roll. No.: 40913202718 \n");
+     printf(" Name: Vishnu Bhagwat \n Roll. No.: 41913202718 \n");
     printf("Enter a string:");
     scanf("%s", string1);
 
