@@ -21,6 +21,12 @@ The repository contains some basic programs in C/C++ programming languages:
 18. 18.c //To find the fibonacci series using recursion.
 19. 19.c //To copy a string.
 20. 20.c //To create a structure of student data type.
+21. 21.c //To copy a student's data using functions and structure.
+22. 22.c //To count the number of vowels in a input string.
+23. 23.c //To check whether a input string is a palindrome or not.
+24. 24.c //To add two input matrix.
+25. 25.c //To create a function to swap input numbers.
+
 
 
 
