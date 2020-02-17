@@ -1,8 +1,10 @@
+//To add two input matrix...
+
 #include<stdio.h>
 void main()
 {
 int a[5][5],b[5][5],c[5][5],i,j,m,n;
-printf(" Name: Vikas Bishnoi \n Roll. No.: 40913202718 \n");
+printf(" Name: Vishnu Bhagwat \n Roll. No.: 41913202718 \n");
 printf("Enter m & n:");
 scanf("%d %d",&m,&n);
 
