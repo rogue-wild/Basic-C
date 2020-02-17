@@ -1,3 +1,5 @@
+//To copy a student's data using functions and structure.... 
+
 #include<stdio.h>
 
 int gtbitstrlen(char a[])
@@ -26,7 +28,7 @@ int main()
     int i,rollno,marks,j;
     char name[100];
     struct students s[1],s1[1];
-    printf(" Vikas Bishnoi \n 40913202718 \n Enter the details: ");
+    printf(" Vishnu Bhagwat \n 41913202718 \n Enter the details: ");
     for(i=0; i<1; i++)
     {
         scanf("%s",name);
