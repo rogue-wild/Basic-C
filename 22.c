@@ -1,3 +1,5 @@
+    //To count the number of vowels in a input string...
+
     #include <stdio.h>
     #include <string.h>
 
@@ -5,7 +7,7 @@
     {
     	char a[100];
     	int len,i,vow=0;
-        printf(" Name: Vikas Bishnoi \n Roll. No.: 40913202718 \n");
+        printf(" Name: Vishnu Bhagwat \n Roll. No.: 41913202718 \n");
     	printf("\nEnter a string: ");
     	gets(a);
     	len=strlen(a);
