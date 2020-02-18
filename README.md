@@ -30,6 +30,12 @@ The repository contains some basic programs in C/C++ programming languages:
 27. 27.c //To print a pattern.
 28. 28.c //To find the factorial upto a number.
 29. 29.c //To make a calculator.
+30. 30.c //To find the largest element in the array.
+31. 31.c //To print the diagonals of input matrix.
+32. 32.c //To print the sum of two diagonals of a input matrix.
+33. 33.c //To print the sum of two input matrices.
+
+
 
 
 
