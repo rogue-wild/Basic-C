@@ -1,3 +1,5 @@
+//To print the sum of two diagonals of a input matrix...
+
 #include<stdio.h>
 
 int main()
