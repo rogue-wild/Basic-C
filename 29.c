@@ -1,3 +1,5 @@
+//To make a calculator...
+
 #include<stdio.h>
 #include<conio.h>
 
@@ -6,7 +8,7 @@ int main()
 	int num1,num2;
 	float res;
 	char ch;
-	printf("Vikas Bishnoi \n40913202718");
+	printf("Vishnu Bhagwat \n41913202718");
 	
 	printf("\nEnter operation (+,-,/,*) \n");
 	scanf("%c",ch);
