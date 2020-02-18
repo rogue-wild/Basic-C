@@ -26,6 +26,10 @@ The repository contains some basic programs in C/C++ programming languages:
 23. 23.c //To check whether a input string is a palindrome or not.
 24. 24.c //To add two input matrix.
 25. 25.c //To create a function to swap input numbers.
+26. 26.c //To print a pattern.
+27. 27.c //To print a pattern.
+28. 28.c //To find the factorial upto a number.
+29. 29.c //To make a calculator.
 
 
 
