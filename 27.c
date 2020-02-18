@@ -1,3 +1,6 @@
+//To print a pattern...
+
+
 #include<stdio.h>
 #include<conio.h>
 
