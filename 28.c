@@ -1,3 +1,5 @@
+//To find the factorial upto a number...
+
 #include<stdio.h>
 #include<conio.h>
 
@@ -5,7 +7,7 @@ int main()
 {
 	int x,n,i,j,fact=1;
 	float sum=0,ser;
-	printf("Vikas Bishnoi \n40913202718");
+	printf("Vishnu Bhagwat \n41913202718");
 	printf("\nEnter Value of X - ");
 	scanf("%d",&x);
 	printf("\nEnter Value of N - ");
