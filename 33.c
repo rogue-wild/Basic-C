@@ -1,3 +1,5 @@
+//To print the sum of two input matrices...
+
 #include<stdio.h>
 
 int main()
