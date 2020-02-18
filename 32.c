@@ -8,7 +8,7 @@ int main()
  int i,j,d1=0,d2=0,n ;
 
  printf("Name: Vishnu Bhagwat\n");
- printf("Roll no.42513202718\n\n");
+ printf("Roll no.42113202718\n\n");
  printf("Enter number of Rows :");
     scanf("%d",&n);
     printf("Enter number of Cols :");
