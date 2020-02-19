@@ -1,3 +1,5 @@
+//To find the difference between two input matrices... 
+
 #include<stdio.h>
 
 int main()
