@@ -1,4 +1,6 @@
-    #include <stdio.h>
+//To find the product of two input matrices...   
+
+#include <stdio.h>
 
     int main()
     {
