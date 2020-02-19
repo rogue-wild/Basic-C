@@ -34,6 +34,10 @@ The repository contains some basic programs in C/C++ programming languages:
 31. 31.c //To print the diagonals of input matrix.
 32. 32.c //To print the sum of two diagonals of a input matrix.
 33. 33.c //To print the sum of two input matrices.
+34. 34.c //To find the difference between two input matrices. 
+35. 35.c //To find the product of two input matrices.
+36. 36.c //To display the two diagonals of an input matrix.
+
 
 
 
