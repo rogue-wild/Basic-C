@@ -1,3 +1,5 @@
+//To display the two diagonals of an input matrix...
+
 #include<stdio.h>
 
 int main()
