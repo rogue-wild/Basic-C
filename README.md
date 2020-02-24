@@ -39,8 +39,9 @@ The repository contains some basic programs in C/C++ programming languages:
 36. 36.c //To display the two diagonals of an input matrix.
 37. 37.c //To print the upper trianlge of an input matrix.
 38. 38.c //To find the cube of an input number using function.
-39. 39.c
-40. 40.c
+39. 39.c //To find the factorial of a number.
+40. 40.c //To find the sum of diagonal elements of a matrix.
+41. 41.c 
 
 
 
