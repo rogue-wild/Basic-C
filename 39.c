@@ -1,3 +1,5 @@
+//To find the factorial of a number...
+
 #include<stdio.h>
 
  int fact(int n);
