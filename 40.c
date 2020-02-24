@@ -1,3 +1,5 @@
+//To find the sum of diagonal elements of a matrix...
+
 #include<stdio.h>
 #include<conio.h> 
  
