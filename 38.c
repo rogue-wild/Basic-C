@@ -1,3 +1,5 @@
+//To find the cube of an input number using function...
+
 #include<stdio.h>
 
  int cube(int num);
