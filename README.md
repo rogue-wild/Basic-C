@@ -37,6 +37,11 @@ The repository contains some basic programs in C/C++ programming languages:
 34. 34.c //To find the difference between two input matrices. 
 35. 35.c //To find the product of two input matrices.
 36. 36.c //To display the two diagonals of an input matrix.
+37.c
+38.c
+39.c
+40.c
+
 
 
 
