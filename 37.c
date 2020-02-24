@@ -1,3 +1,5 @@
+//To print the upper trianlge of an input matrix...
+
 #include<stdio.h>
 
 int main()
